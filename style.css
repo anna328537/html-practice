@@ -1,0 +1,96 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul.ui{
+    font-family: 'Noto Serif TC', serif;
+}
+
+.btn{
+    border-radius: 15px;
+    color: white;
+    background: #f05f5c;
+    padding: 9px 26px;
+}
+.h3{
+    font-size: 36px;
+    line-height: 1.5;
+}
+p{
+    color: #707070;
+    font-size: 17px;
+}
+/* p.lead是連著寫的代表兩個條件同時符合 */
+p.lead{
+    color: black;
+    font-size: 20px;
+}
+#intro .jumbotron{
+    height: 30vh;
+    margin-bottom: 0px;
+}
+#intro h1{
+    line-height: 1.5;
+    font-size: 52px;
+    font-weight: 400;
+}
+
+#intro .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  #second{
+    padding: 80px 180px;
+ 
+  }
+
+  #second h3{
+    margin-bottom: 80px;
+  }
+  #second img{
+    width: 100px;
+    border-radius: 70%;
+    margin-bottom: 12px;
+  }
+  #email {
+    padding: 80px 0px;
+
+  }
+
+  #email h3{
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+footer{
+  border-top: solid 1px #c9c9c9;
+  padding: 80px 0px;  
+}
+
+ footer img{
+      width: 30px;
+      margin-bottom: 26px;
+  }
+footer h4{
+    margin-bottom: 26px;
+}
+footer a{
+    color: #f05f5c;
+}
+footer ul{
+    list-style: none;
+    padding: 0;
+    float: left;
+    margin-right: 40px;
+}
+footer ul li{
+
+    margin-bottom: 10px;
+}
+footer ul li a{
+    color: #f05f5c;
+}
+  @media only screen and (max-width: 768px){
+      margin-bottom
+  }
